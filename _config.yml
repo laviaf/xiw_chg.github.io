@@ -47,18 +47,17 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Mordern Resume Theme
-        link: sproogen.github.io/modern-resume-theme
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+        title: Discourse analysis of the vulnerable
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          Analyze discourse features and government trust for vulnerable groups, advising government on digital transformation.
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
+          The government is currently engaged in multi-dimensional reforms and innovations around digital transformation. 
+          Modern social governance requires accurate identification of the interests and demands of the public, especially for the vulnerable. 
+          The vulnerable are often highly sensitive to public policy, their interests are easily infringed upon and ignored. They may also lack appropriate ways to express their demands under the traditional governance system. 
+          We are interested in whether new online platforms for communication such as leadership message boards, can ameliorate the plight of the vulnerable.
+          
+          In this project, we crawled all 2 million messages from the “Message Board for Leaders” from the past 10 years, then finetuned Bert with focal loss to classify the context of vulnerable groups and used text analysis to explore characteristics of the discourse.
+          We find that affective and juridical expressions are significantly more often used by the vulnerable, and the affective and juridical expressions trend toward declining over time.
       - layout: top-middle
         title: itsgoingto.be
         link: www.itsgoingto.be
