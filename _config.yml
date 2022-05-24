@@ -42,6 +42,42 @@ about_content: |
   I have the most experience working with <mark>Pthon</mark>, <mark>R</mark>, <mark>C++</mark>, <mark>SQL</mark>, <mark>Linux</mark>.
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - title: Research Intern
+        sub_title: Language and Mental Intelligence Lab, Gaoling School of Artificial Intelligence, RUC
+        caption: August 2021 - Present
+        description: |
+          It’s my honor to be guided by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun, I learned a lot here. 
+          Our lab mainly focus on cultivating AI with feeling and warmth. 
+          My research mainly focus on vision and language.
+      - title: Undergraduate Student
+        sub_title: School of Statistics, RUC
+        caption: September 2019 - Present
+        description: |
+          It’s glad to have the chance studying in such a open and vibrant school. 
+          She taught me to be a person with romance, passion, and responsibility and have my foot on the ground.
+
+  - title: Drafts
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Multi-Modal vs. Text Pre-trained Models——How Different They are in Embedding Text
+        caption: September 2021 - Present
+        description: |
+          This research conducted a detailed analysis of changes in text embedding brought by the vision to language pre-training. 
+          We used k-nearest neighbor approach to make the text embeding space of WenLan and RoBERTa comparable, and analyzed semantic and relationship of words using labeled dataset like ConceptNet.
+      - layout: left
+        border: weak
+        title: Evaluation of Marketing Communication Based on Multi-modal Method.
+        caption: November 2021 - Present
+        description: |
+          This article proposes an approach to provide quantitative evidence for Integrated Marketing Communication (IMC) and Brand Identity theory.
+          By implementing web scraping techniques and machine-learning approaches, we investigated web data on a large scale with multi-modal method.
+          We finetuned Bert, ResNet and CLIP to calculate cosine similarity between embeddings and used GNN to recognize interaction patterns between nodes. 
+
   - title: Projects # Title for the section
     layout: list
     content:
@@ -72,43 +108,7 @@ content:
           This is a course project collaborated with LLMllm2000. 
           We aimed to design and implement an online B2C shopping system like Jingdong or Amazon. 
           In this project, we finished user requirement analysis, database design, data generation, graphical user interface design, database security testing, complex sql queries and extreme testing.
-
-  - title: Drafts
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: Multi-Modal vs. Text Pre-trained Models——How Different They are in Embedding Text
-        caption: September 2021 - Present
-        description: |
-          This research conducted a detailed analysis of changes in text embedding brought by the vision to language pre-training. 
-          We used k-nearest neighbor approach to make the text embeding space of WenLan and RoBERTa comparable, and analyzed semantic and relationship of words using labeled dataset like ConceptNet.
-      - layout: left
-        border: weak
-        title: Evaluation of Marketing Communication Based on Multi-modal Method.
-        caption: November 2021 - Present
-        description: |
-          This article proposes an approach to provide quantitative evidence for Integrated Marketing Communication (IMC) and Brand Identity theory.
-          By implementing web scraping techniques and machine-learning approaches, we investigated web data on a large scale with multi-modal method.
-          We finetuned Bert, ResNet and CLIP to calculate cosine similarity between embeddings and used GNN to recognize interaction patterns between nodes. 
-
-  - title: Experience
-    layout: list
-    content:
-      - title: Research Intern
-        sub_title: Language and Mental Intelligence Lab, Gaoling School of Artificial Intelligence, RUC
-        caption: August 2021 - Present
-        description: |
-          It’s my honor to be guided by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun, I learned a lot here. 
-          Our lab mainly focus on cultivating AI with feeling and warmth. 
-          My research mainly focus on vision and language.
-      - title: Undergraduate Student
-        sub_title: School of Statistics, RUC
-        caption: September 2019 - Present
-        description: |
-          It’s glad to have the chance studying in such a open and vibrant school. 
-          She taught me to be a person with romance, passion, and responsibility and have my foot on the ground.
-
+          
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
