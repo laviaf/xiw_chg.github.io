@@ -64,14 +64,14 @@ content:
     content:
       - layout: left
         border: weak
-        title: Multi-Modal vs. Text Pre-trained Models——How Different They are in Embedding Text
+        sub_title: Multi-Modal vs. Text Pre-trained Models——How Different They are in Embedding Text
         caption: September 2021 - Present
         description: |
           This research conducted a detailed analysis of changes in text embedding brought by the vision to language pre-training. 
           We used k-nearest neighbor approach to make the text embeding space of WenLan and RoBERTa comparable, and analyzed semantic and relationship of words using labeled dataset like ConceptNet.
       - layout: left
         border: weak
-        title: Evaluation of Marketing Communication Based on Multi-modal Method.
+        sub_title: Evaluation of Marketing Communication Based on Multi-modal Method.
         caption: November 2021 - Present
         description: |
           This article proposes an approach to provide quantitative evidence for Integrated Marketing Communication (IMC) and Brand Identity theory.
@@ -108,7 +108,7 @@ content:
           This is a course project collaborated with LLMllm2000. 
           We aimed to design and implement an online B2C shopping system like Jingdong or Amazon. 
           In this project, we finished user requirement analysis, database design, data generation, graphical user interface design, database security testing, complex sql queries and extreme testing.
-          
+
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -118,7 +118,7 @@ content:
       Every time I found that life needed a little more fun, I went to a concert or sat on the lawn and sang.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
