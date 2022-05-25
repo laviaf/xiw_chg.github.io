@@ -18,9 +18,9 @@ github_username:  laviaf
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: bilibili
+  icon: https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=b%E7%AB%99%E5%9B%BE%E5%83%8F&hs=0&pn=6&spn=0&di=7084067677328637953&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=212080478%2C314921655&os=1183056343%2C2871603112&simid=212080478%2C314921655&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=b%E7%AB%99%E5%9B%BE%E5%83%8F&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0422%2F8ee98ab6j00qryiu9001kc000oc00l0m.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg%26refer%3Dhttp%3A%2F%2Fnimg.ws.126.net%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1656055120%26t%3Df593cdd79f015143f5c28aef86efac09&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B8mn_z%26e3Bv54AzdH3F1yAzdH3Fw6ptvsjAzdH3FGb0aKRKMacncaPAE_z%26e3Bip4s&gsm=7&islist=&querylist=&dyTabStr=MCwzLDYsNCwxLDUsMiw4LDcsOQ%3D%3D
+  url: https://space.bilibili.com/482102367
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,10 +46,10 @@ content:
     layout: list
     content:
       - title: Research Intern
-        sub_title: Language and Mental Intelligence Lab, [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), RUC
+        sub_title: Language and Mental Intelligence Lab, Gaoling School of Artificial Intelligence, RUC
         caption: August 2021 - Present
         description: |
-          It’s my honor to be guided by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun, I learned a lot here. 
+          It’s my honor to be guided by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun, I learned a lot [here](http://ai.ruc.edu.cn/). 
           Our lab mainly focus on cultivating AI with feeling and warmth. 
           My research mainly focus on vision and language.
       - title: Undergraduate Student
