@@ -35,11 +35,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
-  I am a junior undergraduate student in School of Statistics, Renmin Unniversity of China, major in data science and minor in finance. 
-  Since August 2021, I served as a research intern at the Language and Mental Intelligence Lab, Renmin University of China, supervised by Prof. Ruihua Song and Ph.D Candidate 
-additional links: 
-  - title: Yuchong Sun. 
-    url: https://github.com/ycsun1972
+  I am a junior undergraduate student in [School of Statistics](http://stat.ruc.edu.cn), Renmin Unniversity of China, major in data science and minor in finance. 
+  Since August 2021, I served as a research intern at the Language and Mental Intelligence Lab, Renmin University of China, supervised by Prof. [Ruihua Song](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?ruccode=20200031) and Ph.D Candidate [Yuchong Sun](https://github.com/ycsun1972). 
   The vision-and-language and representation learning and AI for finance interest me greatly and can inspire my passion and creativity.
   
   I have the most experience working with <mark>Pthon</mark>, <mark>R</mark>, <mark>C++</mark>, <mark>SQL</mark>, <mark>Linux</mark>.
@@ -49,14 +46,14 @@ content:
     layout: list
     content:
       - title: Research Intern
-        sub_title: Language and Mental Intelligence Lab, Gaoling School of Artificial Intelligence, RUC
+        sub_title: Language and Mental Intelligence Lab, [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), RUC
         caption: August 2021 - Present
         description: |
           It’s my honor to be guided by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun, I learned a lot here. 
           Our lab mainly focus on cultivating AI with feeling and warmth. 
           My research mainly focus on vision and language.
       - title: Undergraduate Student
-        sub_title: School of Statistics, RUC
+        sub_title: [School of Statistics](http://stat.ruc.edu.cn), RUC
         caption: September 2019 - Present
         description: |
           It’s glad to have the chance studying in such a open and vibrant school. 
