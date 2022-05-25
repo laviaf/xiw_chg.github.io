@@ -36,8 +36,11 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | 
   I am a junior undergraduate student in School of Statistics, Renmin Unniversity of China, major in data science and minor in finance. 
-  Since August 2021, I served as a research intern at the Language and Mental Intelligence Lab, Renmin University of China, supervised by Prof. Ruihua Song and Ph.D Candidate Yuchong Sun. 
-  My main research interest is in vision-and-language and representation learning, along with intrest in AI for finance. 
+  Since August 2021, I served as a research intern at the Language and Mental Intelligence Lab, Renmin University of China, supervised by Prof. Ruihua Song and Ph.D Candidate 
+additional links: 
+  - title: Yuchong Sun. 
+    url: https://github.com/ycsun1972
+  The vision-and-language and representation learning and AI for finance interest me greatly and can inspire my passion and creativity.
   
   I have the most experience working with <mark>Pthon</mark>, <mark>R</mark>, <mark>C++</mark>, <mark>SQL</mark>, <mark>Linux</mark>.
 
@@ -93,8 +96,8 @@ content:
           The vulnerable are often highly sensitive to public policy, their interests are easily infringed upon and ignored. They may also lack appropriate ways to express their demands under the traditional governance system. 
           We are interested in whether new online platforms for communication such as leadership message boards, can ameliorate the plight of the vulnerable.
           
-          In this project, we crawled all 2 million messages from the “Message Board for Leaders” from the past 10 years, then finetuned Bert with focal loss to classify the context of vulnerable groups and used text analysis to explore characteristics of the discourse.
-          Our main find is that affective and juridical expressions are significantly more often used by the vulnerable, and the affective and juridical expressions trend toward declining over time.
+          In this project, we collected all 2 million messages from the “Message Board for Leaders” from the past 10 years using the web crawler, then finetuned Bert with focal loss to classify the context of vulnerable groups and used text analysis to explore characteristics of the discourse.
+          Our main findings are that affective and juridical expressions are significantly more often used by the vulnerable, and the affective and juridical expressions trend toward declining over time.
       - layout: top-middle
         title: RUCtronic
         additional_links:
@@ -106,7 +109,7 @@ content:
           a demo of B2C shopping platform, based on vue+django+mysql.
         description: |
           This is a course project collaborated with LLMllm2000. 
-          We aimed to design and implement an online B2C shopping system like Jingdong or Amazon. 
+          We aimed to design and implement an online B2C shopping system like JD Mall or Amazon. 
           In this project, we finished user requirement analysis, database design, data generation, graphical user interface design, database security testing, complex sql queries and extreme testing.
 
   - title: When I'm Not Programming
